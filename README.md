@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Supriya Swain</h1>
 <h3 align="center">Full-stack developer passionate about building scalable web applications with the **MERN stack** (MongoDB, Express.js, React.js, Node.js). I love turning ideas into interactive products that combine clean UI with robust backend logic.</h3>
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=supriya09781&label=Profile%20views&color=0e75b6&style=flat" alt="supriya09781" /> </p>
 
